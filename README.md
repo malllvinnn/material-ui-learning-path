@@ -1,8 +1,18 @@
-# React + Vite
+# Belajar Material UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Dokumentasi tentang pembelajaran saya mengenai Framework CSS Material UI Dari Challenges Design Frontend Mentor dan Course Fastcampus ([Paket All-in-One] Frontend Web Development: From Zero To Hero)
 
-Currently, two official plugins are available:
+## Screenshots
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+| Desktop                                         | Mobile                                        |
+| ----------------------------------------------- | --------------------------------------------- |
+| ![Landing Design Desktop ](/public/Desktop.jpg) | ![Landing Design Mobile ](/public/Mobile.jpg) |
+#### by: [Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS)
+
+## Tech Stack
+
+**Client:** React, Material UI
+
+## Authors
+
+- [@malllvinnn](https://github.com/malllvinnn)
